@@ -1,3 +1,14 @@
+This library is a fork of https://github.com/IndustrialShields/arduino-AES_CMAC adapting it so that it can be included in Library Manager.
+
+# Changes
+All changes are documented in commits, but to sum up:
+- edited library.properties
+- renamed COPYING to LICENSE.txt
+- removed .gitignore
+- added a tag that is required for the library to be added to the Arduino Library Manager
+
+------
+
 # Arduino - AES_CMAC
 AES-CMAC library for Arduino
 
